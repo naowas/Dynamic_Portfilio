@@ -2,7 +2,7 @@
 $hostname = "localhost";
 $username = "root";
 $password = "";
-$dbname = "panda";
+$dbname = "portfolio";
 
 $db_connection = mysqli_connect($hostname, $username, $password, $dbname);
 
